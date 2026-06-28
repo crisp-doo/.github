@@ -6,8 +6,8 @@ Web & mobile apps &nbsp;·&nbsp; Websites & online stores &nbsp;·&nbsp; Researc
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=astro,nextjs,react,ts,tailwind,php,figma&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=astro,nextjs,ts,tailwind,php&perline=5)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=python,go,postgres,docker,aws&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,go,postgres,docker,aws&perline=5)](https://skillicons.dev)
 
 </div>
